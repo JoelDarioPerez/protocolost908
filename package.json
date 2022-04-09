@@ -1,0 +1,20 @@
+{
+  "name": "tcpserver",
+  "version": "1.0.0",
+  "main": "tcp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelDarioPerez/protocolost908.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelDarioPerez/protocolost908/issues"
+  },
+  "homepage": "https://github.com/JoelDarioPerez/protocolost908#readme",
+  "description": ""
+}
